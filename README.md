@@ -33,10 +33,10 @@ Passionate about demystifying technology and creating elegant, efficient solutio
 
 ## 🗂️ Projects Overview & Progress
 
-| Project | Description | Language |
-|--------|-------------|----------|
-| [42-piscine](https://github.com/katan42/piscine6.git) | Foundations of C programming and Unix logic | C |
-| [libft](https://github.com/katan42/42again/tree/main/00_libft)         | Re-implementing essential C standard functions       | C |
+| Project  | Status | Description | Language |
+|--------|----------|-------------|----------|
+| [42-piscine](https://github.com/katan42/piscine6.git) | ✅ Done | Foundations of C programming and Unix logic | C |
+| [libft](https://github.com/katan42/42again/tree/main/00_libft) | ✅ Done | Re-implementing essential C standard functions       | C |
 
 ---
 
