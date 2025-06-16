@@ -31,18 +31,31 @@ Passionate about demystifying technology and creating elegant, efficient solutio
 
 ---
 
-## 🗂️ Projects & Learning Repos
+## 🗂️ Projects Overview & Progress
 
 | Project | Description | Language |
 |--------|-------------|----------|
 | [42-piscine](https://github.com/katan42/piscine6.git) | Foundations of C programming and Unix logic | C |
-| [libft](https://github.com/katan42/42again/tree/main/Libft)         | Re-implementing essential C standard functions       | C |
+| [libft](https://github.com/katan42/42again/tree/main/00_libft)         | Re-implementing essential C standard functions       | C |
 
 ---
 
 ## ✅ Completed Projects
-- [x] C00 to C08
-- [x] [rush01](https://github.com/katan42/piscine6/tree/main/Rush01)
+
+### 🏊 Piscine Projects
+| Project | Description | Language |
+|--------|-------------|----------|
+|- [x] C00 to C08 | Foundations of C programming and Unix logic | C |
+|- [x] [rush01](https://github.com/katan42/piscine6/tree/main/Rush01)|
+
+### 🧱 42 Common Core Projects
+#### 📅 Milestone 0:
+|- [x] [libft](https://github.com/katan42/42again/tree/main/00_libft) | Re-implementing essential C standard functions       | C |
+
+#### 📅 Milestone 1:
+- [ ] ft_printf
+- [ ] get_next_line
+- [ ] born2beroot
 
 ## 🧭 Learning Goals for 2025
 - Complete many 42 core projects
