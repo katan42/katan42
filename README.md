@@ -42,11 +42,9 @@ Passionate about demystifying technology and creating elegant, efficient solutio
 ### 🧱 42 Common Core Projects
 | Project  | Status | Description | Language |
 |--------|----------|-------------|----------|
-#### 📅 Milestone 0:
+|#### 📅 Milestone 0:|
 |[libft](https://github.com/katan42/42again/tree/main/00_libft) | ✅ Done | Re-implementing essential C standard functions       | C |
-
-#### 📅 Milestone 1:
-
+|#### 📅 Milestone 1:|
 |ft_printf | 🚧 In Progress | C    | Custom `printf` implementation with format specifiers |
 |get_next_line | ⏳ Next Up | C       | Line-by-line file reading using static buffers |
 |born2beroot | ⏳ Next Up | Bash, Debian, UFW   | Automate Linux server setup with user roles, partitions, and services |
