@@ -33,29 +33,23 @@ Passionate about demystifying technology and creating elegant, efficient solutio
 
 ## 🗂️ Projects Overview & Progress
 
+### 🏊 Piscine Projects
 | Project  | Status | Description | Language |
 |--------|----------|-------------|----------|
-| [42-piscine](https://github.com/katan42/piscine6.git) | ✅ Done | Foundations of C programming and Unix logic | C |
-| [libft](https://github.com/katan42/42again/tree/main/00_libft) | ✅ Done | Re-implementing essential C standard functions       | C |
-
----
-
-## ✅ Completed Projects
-
-### 🏊 Piscine Projects
-| Project | Description | Language |
-|--------|-------------|----------|
-|- [x] C00 to C08 | Foundations of C programming and Unix logic | C |
-|- [x] [rush01](https://github.com/katan42/piscine6/tree/main/Rush01)|
+| [C00 to C08](https://github.com/katan42/piscine6.git) | ✅ Done | Foundations of C programming and Unix logic | C |
+|[rush01](https://github.com/katan42/piscine6/tree/main/Rush01) | ✅ Done | skyscraper puzzle group project       | C |
 
 ### 🧱 42 Common Core Projects
+| Project  | Status | Description | Language |
+|--------|----------|-------------|----------|
 #### 📅 Milestone 0:
-|- [x] [libft](https://github.com/katan42/42again/tree/main/00_libft) | Re-implementing essential C standard functions       | C |
+|[libft](https://github.com/katan42/42again/tree/main/00_libft) | ✅ Done | Re-implementing essential C standard functions       | C |
 
 #### 📅 Milestone 1:
-- [ ] ft_printf
-- [ ] get_next_line
-- [ ] born2beroot
+
+|ft_printf | 🚧 In Progress | C    | Custom `printf` implementation with format specifiers |
+|get_next_line | ⏳ Next Up | C       | Line-by-line file reading using static buffers |
+|born2beroot | ⏳ Next Up | Bash, Debian, UFW   | Automate Linux server setup with user roles, partitions, and services |
 
 ## 🧭 Learning Goals for 2025
 - Complete many 42 core projects
