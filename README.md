@@ -47,8 +47,8 @@ Passionate about demystifying technology and creating elegant, efficient solutio
 #### 📅 Milestone 1:
 | Project  | Status | Description | Language |
 |--------|----------|-------------|----------|
-|ft_printf | 🚧 In Progress | C    | Custom `printf` implementation with format specifiers |
-|get_next_line | ⏳ Next Up | C       | Line-by-line file reading using static buffers |
+|[ft_printf](https://github.com/katan42/42again/tree/main/01_ft_printf) | ✅ Done | C    | Custom `printf` implementation with format specifiers |
+|get_next_line | 🚧 In Progress | C       | Line-by-line file reading using static buffers |
 |born2beroot | ⏳ Next Up | Bash, Debian, UFW   | Automate Linux server setup with user roles, partitions, and services |
 
 ## 🧭 Learning Goals for 2025
