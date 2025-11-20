@@ -48,8 +48,15 @@ Passionate about demystifying technology and creating elegant, efficient solutio
 | Project  | Status | Description | Language |
 |--------|----------|-------------|----------|
 |[ft_printf](https://github.com/katan42/42again/tree/main/01_ft_printf) | ✅ Done | C    | Custom `printf` implementation with format specifiers |
-|get_next_line | 🚧 In Progress | C       | Line-by-line file reading using static buffers |
-|born2beroot | ⏳ Next Up | Bash, Debian, UFW   | Automate Linux server setup with user roles, partitions, and services |
+|[get_next_line](https://github.com/katan42/42again/tree/main/01_get_next_line) | ✅ Done | C       | Line-by-line file reading using static buffers |
+|born2beroot | ✅ Done | Virtual machine, Bash, Debian, UFW   | Automate Linux server setup with user roles, partitions, and services |
+
+#### 📅 Milestone 2:
+| Project | Status | Description | Language |
+|--------|----------|-------------|----------|
+|[minitalk](https://github.com/katan42/42again/tree/main/02_minitalk) | ✅ Done | Client-server message passing using UNIX signals | C |
+|push_swap | 🚧 In Progress | Sorting algorithm using limited stack operations | C |
+|fract-ol | ⏳ Next Up | Interactive fractal renderer (Mandelbrot/Julia) | C, MLX |
 
 ## 🧭 Learning Goals for 2025
 - Complete many 42 core projects
