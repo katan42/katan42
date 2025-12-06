@@ -32,7 +32,7 @@ Passionate about demystifying technology and creating elegant, efficient solutio
 
 ---
 
-## 🗂️ Projects Overview & Progress
+## 🗂️ [Projects](https://github.com/katan42/42again/) Overview & Progress
 
 ### 🏊 Piscine Projects
 | Project &nbsp;| Status &nbsp;&nbsp;| Description | Language |
