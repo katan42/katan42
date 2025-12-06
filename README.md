@@ -27,6 +27,7 @@ Passionate about demystifying technology and creating elegant, efficient solutio
 ## 🚀 Current Focus
 - 📘 Studying at [42 Singapore](https://www.42singapore.sg )
 - 🔍 Deepening understanding of low-level programming in C
+- 🧠 Advancing in AI/ML & Data Science
 - 🔐 Exploring cybersecurity fundamentals and system internals
 
 ---
@@ -55,12 +56,20 @@ Passionate about demystifying technology and creating elegant, efficient solutio
 | Project | Status | Description | Language |
 |--------|----------|-------------|----------|
 |[minitalk](https://github.com/katan42/42again/tree/main/02_minitalk) | ✅ Done | Client-server message passing using UNIX signals | C |
-|push_swap | 🚧 In Progress | Sorting algorithm using limited stack operations | C |
-|fract-ol | ⏳ Next Up | Interactive fractal renderer (Mandelbrot/Julia) | C, MLX |
+|push_swap | ✅ Done | Sorting algorithm using limited stack operations | C |
+|fract-ol | ✅ Done | Interactive fractal renderer (Mandelbrot/Julia) | C, MLX |
+
+#### 📅 Milestone 3:
+| Project | Status | Description | Language |
+|--------|----------|-------------|----------|
+|Philophers | ⏳ Next Up | Classic concurrency problem exploring threads, mutexes, race conditions & timing constraints. Focus on designing deterministic behaviour and avoiding deadlocks. | C |
+|Minishell | ⏳ Next Up | Building a simplified shell: parsing, tokenisation, environment variables, piping, redirection, signal handling, and process execution — deep dive into OS internals. | C |
+
+
 
 ## 🧭 Learning Goals for 2025
 - Complete many 42 core projects
-- Explore cybersecurity-related field and internship
+- Explore AI/Data Analytics/Cybersecurity-related field and internship
 ---
 
 "To learn is to collect puzzle pieces — even if you’re not sure what the picture is yet."
