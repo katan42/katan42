@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hello, I'm Ka Shin
 
-🎓 Former science educator | 💻 Aspiring software engineer | 🛡️ Cybersecurity enthusiast  
+🎓 Former science educator | 💻 Aspiring Data/AI engineer | 🛡️ Cybersecurity enthusiast  
 Passionate about demystifying technology and creating elegant, efficient solutions.
 
 ---
