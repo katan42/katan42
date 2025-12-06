@@ -35,7 +35,7 @@ Passionate about demystifying technology and creating elegant, efficient solutio
 ## 🗂️ Projects Overview & Progress
 
 ### 🏊 Piscine Projects
-| Project &nbsp  | Status &nbsp | Description | Language |
+| Project &nbsp;  | Status &nbsp | Description | Language |
 |--------|----------|-------------|----------|
 | [C00 to C08](https://github.com/katan42/piscine6.git) | ✅ Done | Foundations of C programming and Unix logic | C |
 |[rush01](https://github.com/katan42/piscine6/tree/main/Rush01) | ✅ Done | skyscraper puzzle group project       | C |
