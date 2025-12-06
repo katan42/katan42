@@ -47,7 +47,7 @@ Passionate about demystifying technology and creating elegant, efficient solutio
 |[libft](https://github.com/katan42/42again/tree/main/00_libft) | ✅ Done | Re-implementing essential C standard functions       | C |
 #### 📅 Milestone 1:
 | Project &nbsp;| Status &nbsp;&nbsp;| Description | Language |
-|--------|----------|-------------|----------|
+|--------|--------------|-------------|----------|
 |[ft_printf](https://github.com/katan42/42again/tree/main/01_ft_printf) | ✅ Done |  Custom `printf` implementation with format specifiers |C    |
 |[get_next_line](https://github.com/katan42/42again/tree/main/01_get_next_line) | ✅ Done |  Line-by-line file reading using static buffers |C       |
 |born2beroot | ✅ Done |  Automate Linux server setup with user roles, partitions, and services |Virtual machine, Bash, Debian, UFW   |
@@ -61,7 +61,7 @@ Passionate about demystifying technology and creating elegant, efficient solutio
 
 #### 📅 Milestone 3:
 | Project &nbsp;| Status &nbsp;&nbsp;| Description | Language |
-|--------|----------|-------------|----------|
+|--------|-------------|-------------|----------|
 |Philophers | ⏳ Next Up | Classic concurrency problem exploring threads, mutexes, race conditions & timing constraints. Focus on designing deterministic behaviour and avoiding deadlocks. | C |
 |Minishell | ⏳ Next Up | Building a simplified shell: parsing, tokenisation, environment variables, piping, redirection, signal handling, and process execution — deep dive into OS internals. | C |
 
