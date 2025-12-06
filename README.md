@@ -46,7 +46,7 @@ Passionate about demystifying technology and creating elegant, efficient solutio
 |--------|----------|-------------|----------|
 |[libft](https://github.com/katan42/42again/tree/main/00_libft) | ✅ Done | Re-implementing essential C standard functions       | C |
 #### 📅 Milestone 1:
-| Project &nbsp;| Status &nbsp;&nbsp;| Description | Language |
+| Project &nbsp;| Status &nbsp;&nbsp;&nbsp;| Description | Language |
 |--------|--------------|-------------|----------|
 |[ft_printf](https://github.com/katan42/42again/tree/main/01_ft_printf) | ✅ Done |  Custom `printf` implementation with format specifiers |C    |
 |[get_next_line](https://github.com/katan42/42again/tree/main/01_get_next_line) | ✅ Done |  Line-by-line file reading using static buffers |C       |
