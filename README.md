@@ -35,32 +35,32 @@ Passionate about demystifying technology and creating elegant, efficient solutio
 ## 🗂️ Projects Overview & Progress
 
 ### 🏊 Piscine Projects
-| Project &nbsp;  | Status &nbsp | Description | Language |
+| Project &nbsp;| Status &nbsp;| Description | Language |
 |--------|----------|-------------|----------|
 | [C00 to C08](https://github.com/katan42/piscine6.git) | ✅ Done | Foundations of C programming and Unix logic | C |
 |[rush01](https://github.com/katan42/piscine6/tree/main/Rush01) | ✅ Done | skyscraper puzzle group project       | C |
 
 ### 🧱 42 Common Core Projects
 #### 📅 Milestone 0:
-| Project &nbsp | Status &nbsp | Description | Language |
+| Project &nbsp;| Status &nbsp;| Description | Language |
 |--------|----------|-------------|----------|
 |[libft](https://github.com/katan42/42again/tree/main/00_libft) | ✅ Done | Re-implementing essential C standard functions       | C |
 #### 📅 Milestone 1:
-| Project &nbsp | Status &nbsp | Description | Language |
+| Project &nbsp;| Status &nbsp;| Description | Language |
 |--------|----------|-------------|----------|
 |[ft_printf](https://github.com/katan42/42again/tree/main/01_ft_printf) | ✅ Done |  Custom `printf` implementation with format specifiers |C    |
 |[get_next_line](https://github.com/katan42/42again/tree/main/01_get_next_line) | ✅ Done |  Line-by-line file reading using static buffers |C       |
 |born2beroot | ✅ Done | Virtual machine, Bash, Debian, UFW   | Automate Linux server setup with user roles, partitions, and services |
 
 #### 📅 Milestone 2:
-| Project &nbsp | Status &nbsp | Description | Language |
+| Project &nbsp;| Status &nbsp;| Description | Language |
 |--------|----------|-------------|----------|
 |[minitalk](https://github.com/katan42/42again/tree/main/02_minitalk) | ✅ Done | Client-server message passing using UNIX signals | C |
 |push_swap | ✅ Done | Sorting algorithm using limited stack operations | C |
 |fract-ol | ✅ Done | Interactive fractal renderer (Mandelbrot/Julia) | C, MLX |
 
 #### 📅 Milestone 3:
-| Project &nbsp | Status &nbsp | Description | Language |
+| Project &nbsp;| Status &nbsp;| Description | Language |
 |--------|----------|-------------|----------|
 |Philophers | ⏳ Next Up | Classic concurrency problem exploring threads, mutexes, race conditions & timing constraints. Focus on designing deterministic behaviour and avoiding deadlocks. | C |
 |Minishell | ⏳ Next Up | Building a simplified shell: parsing, tokenisation, environment variables, piping, redirection, signal handling, and process execution — deep dive into OS internals. | C |
