@@ -56,8 +56,8 @@ Passionate about demystifying technology and creating elegant, efficient solutio
 | Project &nbsp;| Status &nbsp;&nbsp;| Description | Language |
 |--------|----------|-------------|----------|
 |[minitalk](https://github.com/katan42/42again/tree/main/02_minitalk) | ✅ Done | Client-server message passing using UNIX signals | C |
-|push_swap | ✅ Done | Sorting algorithm using limited stack operations | C |
-|fract-ol | ✅ Done | Interactive fractal renderer (Mandelbrot/Julia) | C, MLX |
+|[push_swap](https://github.com/katan42/42again/tree/main/02_push_swap) | ✅ Done | Sorting algorithm using limited stack operations | C |
+|[fract-ol](https://github.com/katan42/42again/tree/main/02_fract'ol) | ✅ Done | Interactive fractal renderer (Mandelbrot/Julia/Newton) | C, MLX |
 
 #### 📅 Milestone 3:
 | Project &nbsp;| Status &nbsp;&nbsp;| Description | Language |
