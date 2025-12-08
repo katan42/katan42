@@ -62,7 +62,7 @@ Passionate about demystifying technology and creating elegant, efficient solutio
 #### 📅 Milestone 3:
 | Project &nbsp;| Status &nbsp;&nbsp;| Description | Language |
 |--------|-------------|-------------|----------|
-|Philophers | ⏳ Next Up | Classic concurrency problem exploring threads, mutexes, race conditions & timing constraints. Focus on designing deterministic behaviour and avoiding deadlocks. | C |
+|Philosophers | ⏳ Next Up | Classic concurrency problem exploring threads, mutexes, race conditions & timing constraints. Focus on designing deterministic behaviour and avoiding deadlocks. | C |
 |Minishell | ⏳ Next Up | Building a simplified shell: parsing, tokenisation, environment variables, piping, redirection, signal handling, and process execution — deep dive into OS internals. | C |
 
 
