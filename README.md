@@ -67,9 +67,9 @@ Passionate about demystifying technology and creating elegant, efficient solutio
 
 
 
-## 🧭 Learning Goals for 2025
+## 🧭 Learning Goals for 2026
 - Complete many 42 core projects
-- Explore AI/Data Analytics/Cybersecurity-related field and internship
+- Explore AI/ML/Cybersecurity-related field and internship
 ---
 
 "To learn is to collect puzzle pieces — even if you’re not sure what the picture is yet."
