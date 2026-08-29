@@ -39,6 +39,15 @@ Passionate about demystifying technology and creating elegant, efficient solutio
 <tr>
 <td width="33%" valign="top">
 
+### 📅 [42 logtime planner](https://github.com/katan42/project_sandbox/tree/main/logtime-planner)
+Plans my required 20h/week against the calendars I actually live by. Pulls real hours from the 42 intra API, reads Google + iCloud as busy time, and drags planned blocks back into Calendar.app.
+
+*FastAPI · CalDAV · SQLite*
+
+</td>
+
+<td width="33%" valign="top">
+
 ### 🔦 [miniRT](https://github.com/katan42/42again/tree/main/04_minirt)
 A ray tracer in C, rendered live with MiniLibX. One ray per pixel, closest-hit resolution, hard shadows, and an interactive camera. Built in a pair.
 
@@ -53,28 +62,17 @@ A working bash subset — lexer, expander, parser, executor. Pipes, redirections
 *processes · file descriptors*
 
 </td>
-<td width="33%" valign="top">
 
-### 📅 [42 logtime planner](https://github.com/katan42/project_sandbox/tree/main/logtime-planner)
-Plans my required 20h/week against the calendars I actually live by. Pulls real hours from the 42 intra API, reads Google + iCloud as busy time, and drags planned blocks back into Calendar.app.
-
-*FastAPI · CalDAV · SQLite*
-
-</td>
 </tr>
 </table>
 
-## 🔧 Tech Stack
-- **Languages:** C, Bash, Python (beginner)
-- **Tools:** Git, Valgrind, GDB, VS Code
----
+## 🌱 Currently
 
-## 🚀 Current Focus
-- 📘 Studying at [42 Singapore](https://www.42singapore.sg )
-- 🔍 Deepening understanding of programming in C/C++
-- 🧠 Advancing in AI/ML & Data Science
----
+- 🧠 On an AI engineering apprenticeship, exploring applied ML
+ - Coming from deterministic C, I’ve found the shift to probabilistic models fascinating — especially how it changes what “correct” even means when there’s no single right answer.
 
+- 🛠️ Completing many 42 core projects
+---
 
 ## 🎓 42 Singapore
 
@@ -88,11 +86,6 @@ Milestone   0    1    2    3    4    5    6
 > 📚 **[Full archive with write-ups →](https://github.com/katan42/42again)**
 > Each project has a proper write-up: the concepts, the execution flow, what broke, and how I found it.
 
-## 🌱 Currently
-
-- 🧠 Deepening applied **machine learning** — moving from deterministic C to probabilistic models has been the most interesting shift in how I think about a "correct" program
-- 🛠️ Completing many 42 core projects
----
 
 ## 🧰 Toolkit
 
