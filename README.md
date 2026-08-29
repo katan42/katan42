@@ -14,10 +14,55 @@ Here are some ideas to get you started:
 -->
 # 👋 Hello, I'm Ka Shin
 
-🎓 Former science educator | 💻 Aspiring Data/AI engineer | 🛡️ Cybersecurity enthusiast  
+💻 Aspiring AI engineer | 🎓 Former science educator | 
 Passionate about demystifying technology and creating elegant, efficient solutions.
 
+<p align="center">
+  I spent years explaining how things work to teenagers. Now I take the things apart myself —<br>
+  a shell, a ray tracer, a subnet mask, a transformer and build it up from scratch.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+</p>
+
 ---
+
+## 🔭 Things I've built
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🔦 [miniRT](https://github.com/katan42/42again/tree/main/04_minirt)
+A ray tracer in C, rendered live with MiniLibX. One ray per pixel, closest-hit resolution, hard shadows, and an interactive camera. Built in a pair.
+
+*vectors · geometry · light*
+
+</td>
+<td width="33%" valign="top">
+
+### 🐚 [minishell](https://github.com/katan42/42again/tree/main/03_minishell)
+A working bash subset — lexer, expander, parser, executor. Pipes, redirections, heredoc, built-ins and signals. Built in a pair.
+
+*processes · file descriptors*
+
+</td>
+<td width="33%" valign="top">
+
+### 📅 [42 logtime planner](https://github.com/katan42/project_sandbox/tree/main/logtime-planner)
+Plans my required 20h/week against the calendars I actually live by. Pulls real hours from the 42 intra API, reads Google + iCloud as busy time, and drags planned blocks back into Calendar.app.
+
+*FastAPI · CalDAV · SQLite*
+
+</td>
+</tr>
+</table>
 
 ## 🔧 Tech Stack
 - **Languages:** C, Bash, Python (beginner)
@@ -26,52 +71,48 @@ Passionate about demystifying technology and creating elegant, efficient solutio
 
 ## 🚀 Current Focus
 - 📘 Studying at [42 Singapore](https://www.42singapore.sg )
-- 🔍 Deepening understanding of low-level programming in C
+- 🔍 Deepening understanding of programming in C/C++
 - 🧠 Advancing in AI/ML & Data Science
-- 🔐 Exploring cybersecurity fundamentals and system internals
+---
+
+
+## 🎓 42 Singapore
+
+Peer-driven, project-based, no lectures. Everything written from scratch in C under a strict style guide.
+
+```
+Milestone   0    1    2    3    4    5    6
+            ██   ██   ██   ██   █░   ░░   ░░
+```
+
+> 📚 **[Full archive with write-ups →](https://github.com/katan42/42again)**
+> Each project has a proper write-up: the concepts, the execution flow, what broke, and how I found it.
+
+## 🌱 Currently
+
+- 🧠 Deepening applied **machine learning** — moving from deterministic C to probabilistic models has been the most interesting shift in how I think about a "correct" program
+- 🛠️ Completing many 42 core projects
+---
+
+## 🧰 Toolkit
+
+| | |
+| :-- | :-- |
+| **Languages** | C, Python, Bash |
+| **Systems** | Linux, processes & signals, POSIX threads, file descriptors, networking fundamentals |
+| **ML** | PyTorch, NumPy, pandas, scikit-learn |
+| **Tooling** | Git, Valgrind, GDB, Helgrind, Docker, VS Code |
+| **Teaching** | Designed and led science, technology and coding programmes for secondary students |
 
 ---
 
-## 🗂️ [Projects](https://github.com/katan42/42again/) Overview & Progress
+<p align="center">
+  <em>"To learn is to collect puzzle pieces — even if you’re not sure what the picture is yet."
+🧩 Still collecting. Thanks for dropping by.
+</p>
 
-### 🏊 Piscine Projects
-| Project &nbsp;| Status &nbsp;&nbsp;| Description | Language |
-|--------|----------|-------------|----------|
-| [C00 to C08](https://github.com/katan42/piscine6.git) | ✅ Done | Foundations of C programming and Unix logic | C |
-|[rush01](https://github.com/katan42/piscine6/tree/main/Rush01) | ✅ Done | skyscraper puzzle group project       | C |
-
-### 🧱 42 Common Core Projects
-#### 📅 Milestone 0:
-| Project &nbsp;| Status &nbsp;&nbsp;| Description | Language |
-|--------|----------|-------------|----------|
-|[libft](https://github.com/katan42/42again/tree/main/00_libft) | ✅ Done | Re-implementing essential C standard functions       | C |
-#### 📅 Milestone 1:
-| Project &nbsp;| Status &nbsp;&nbsp;| Description | Language |
-|--------|--------------|-------------|----------|
-|[ft_printf](https://github.com/katan42/42again/tree/main/01_ft_printf) | ✅ Done |  Custom `printf` implementation with format specifiers |C    |
-|[get_next_line](https://github.com/katan42/42again/tree/main/01_get_next_line) | ✅ Done |  Line-by-line file reading using static buffers |C       |
-|born2beroot | ✅ Done |  Automate Linux server setup with user roles, partitions, and services |Virtual machine, Bash, Debian, UFW   |
-
-#### 📅 Milestone 2:
-| Project &nbsp;| Status &nbsp;&nbsp;| Description | Language |
-|--------|----------|-------------|----------|
-|[minitalk](https://github.com/katan42/42again/tree/main/02_minitalk) | ✅ Done | Client-server message passing using UNIX signals | C |
-|[push_swap](https://github.com/katan42/42again/tree/main/02_push_swap) | ✅ Done | Sorting algorithm using limited stack operations | C |
-|[fract-ol](https://github.com/katan42/42again/tree/main/02_fract'ol) | ✅ Done | Interactive fractal renderer (Mandelbrot/Julia/Newton) | C, MLX |
-
-#### 📅 Milestone 3:
-| Project &nbsp;| Status &nbsp;&nbsp;| Description | Language |
-|--------|-------------|-------------|----------|
-|Philosophers | ⏳ Next Up | Classic concurrency problem exploring threads, mutexes, race conditions & timing constraints. Focus on designing deterministic behaviour and avoiding deadlocks. | C |
-|Minishell | ⏳ Next Up | Building a simplified shell: parsing, tokenisation, environment variables, piping, redirection, signal handling, and process execution — deep dive into OS internals. | C |
-
-
-
-## 🧭 Learning Goals for 2026
-- Complete many 42 core projects
-- Explore AI/ML/Cybersecurity-related field and internship
----
-
-"To learn is to collect puzzle pieces — even if you’re not sure what the picture is yet."
-💡 Im searching for the puzzle piece every day. Stay tuned for updates!
-Thanks for dropping by! Feel free to connect or explore my work 🚀
+<p align="center">
+  <a href="https://github.com/katan42?tab=repositories">Repositories</a> ·
+  <a href="https://github.com/katan42/42again">42 archive</a> ·
+  <a href="https://github.com/katan42/project_sandbox">Sandbox</a>
+</p>
